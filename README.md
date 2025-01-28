@@ -22,7 +22,7 @@ This project is an **Animated Digital Clock** that dynamically updates the curre
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/shashank2043/digitalclock)
    ```
 
 2. Navigate to the project directory:
